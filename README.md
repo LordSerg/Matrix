@@ -16,25 +16,25 @@ In program I realised some simple actions on one matrix:
 ## Input
 To create a matrix of needed size just input your matrix size in top left textBoxes and hit button below them like this:
 
-![gif where i create matrix]()
+![gif where i create matrix](animations/create.gif)
 
 To change elements of your matrix click once on the element and change the value like this:
 
-![gif where i change matrix]()
+![gif where i change matrix](animations/change.gif)
 
 If you hit button with "Анулювати матрицю" on it - it will set to zero every element of your matrix:
 
-![gif where i set to zero matrix]()
+![gif where i set to zero matrix](animations/zero.gif)
 
 And last, but not least: what each button do:
 
-![picture where shown what each button do]()
+![picture where shown what each button do](animations/buttons.png)
 
 *note that every button texted with green color works only with square matrices*
 
 ## Program example
 
-![gif where i do some actions]()
+![gif where i do some actions](animations/example.gif)
 
 ## Translations
 - ukr. "Створити" = Create
